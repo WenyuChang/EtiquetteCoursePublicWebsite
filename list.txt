@@ -1,0 +1,45 @@
+--------------- 2010/07/02 ---------------
+book_编委	book_bianwei
+book_大赛	book_dasai
+book_大学生	book_daxuesheng
+book_后记	book_houji
+book_教师	book_jiaoshi
+book_礼仪	book_liyi
+book_社会	book_shehui
+book_世博	book_shibo
+book_图说	book_tushuo
+book_小学生	book_xiaoxuesheng
+book_序		book_xu
+book_中学生	book_zhongxuesheng
+book_尊重	book_zunzhong
+default		index
+
+[风俗礼仪、现代社交礼仪]
+		jxkj_1grly
+		jxkj_2sjly
+		jxkj_3fsly
+		jxkj_4gwly
+		jxkj_5wsly
+		jxkj_6zjly
+
+教学大纲	jxdg_jxml
+教学日历	jxdg_jxrl
+自测题库_编委	zctk_bianwei
+自测题库_大赛	zctk_dasai
+自测题库_大学生	zctk_daxuesheng
+自测题库_后记	zctk_houji
+自测题库_教师	zctk_jiaoshi
+自测题库_礼仪	zctk_liyi
+自测题库_社会	zctk_shehui
+自测题库_世博	zctk_shibo
+自测题库_图说	zctk_tushuo
+自测题库_小学生	zctk_xiaoxuesheng
+自测题库_序	zctk_xu
+自测题库_中学生	zctk_zhongxuesheng
+自测题库_尊重	zctk_zunzhong
+
+flash/*
+
+pdf/*
+
+ppt/*
